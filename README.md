@@ -50,3 +50,4 @@ Excel-based Implementation leveraging formulas, filters, and graphical tools for
 
 
 Screenshot: Dashboard preview
+https://github.com/adarsh-0224/Blood-Donation-Analysis/blob/main/Blood%20Donation%20Analysis.png
