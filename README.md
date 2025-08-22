@@ -37,15 +37,25 @@ The data used in this report is generated through Python scripts which simulate 
 
 
 5. Features/Highlights:
+
 Interactive Dashboard with slicers for easy filtering by campus, date, and day of the week.
+
 Comprehensive Donation Analysis covering blood group distribution, donor location, and gender segmentation.
+
 Visual KPIs such as total donors, average donors per location, and percentage split between male and female donors.
+
 Dynamic Weekly and Monthly Trends visualized through bar charts and pie charts for insightful pattern recognition.
+
 Most Common Blood Group Identification with clear male/female donor split.
+
 Location-based Donor Insights including detailed breakdowns by campus and community halls.
+
 Active Days Highlight to track donor participation trends across the week.
+
 Conditional Formatting & Data Visualization for quick spotting of key metrics and trends.
+
 User-friendly Layout combining slicers, charts, and KPIs in a single dashboard for seamless data exploration.
+
 Excel-based Implementation leveraging formulas, filters, and graphical tools for efficient data handling and presentation.
 
 
