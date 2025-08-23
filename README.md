@@ -60,4 +60,5 @@ Excel-based Implementation leveraging formulas, filters, and graphical tools for
 
 
 Screenshot: Dashboard preview
-https://github.com/adarsh-0224/Blood-Donation-Analysis/blob/main/Blood%20Donation%20Analysis.png
+https://github.com/adarsh-0224/Blood-Donation-Analysis/blob/main/Blood%20Donation%20Analysis%20Report.png
+<img width="1278" height="653" alt="Blood Donation Analysis Report" src="https://github.com/user-attachments/assets/efb855ef-d264-47ec-8d6d-e2c2929a77dd" />
